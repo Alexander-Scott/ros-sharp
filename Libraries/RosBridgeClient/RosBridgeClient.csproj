@@ -48,6 +48,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Messages\Custom\CameraInfo.cs" />
+    <Compile Include="Messages\Custom\Odometry.cs" />
+    <Compile Include="Messages\Custom\SensorRt3000.cs" />
+    <Compile Include="Messages\Custom\TFMessage.cs" />
     <Compile Include="Messages\Geometry\Accel.cs" />
     <Compile Include="Messages\Geometry\Point.cs" />
     <Compile Include="Messages\Geometry\PointStamped.cs" />
