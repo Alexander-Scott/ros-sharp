@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Messages\Custom\CameraInfo.cs" />
+    <Compile Include="Messages\Custom\ObjectDynamicList.cs" />
     <Compile Include="Messages\Custom\Odometry.cs" />
     <Compile Include="Messages\Custom\SensorRt3000.cs" />
     <Compile Include="Messages\Custom\TFMessage.cs" />
